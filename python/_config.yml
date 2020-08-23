@@ -16,3 +16,6 @@ html:
 latex:
   latex_documents:
     targetname: book.tex
+
+launch_buttons:
+  colab_url: "https://colab.research.google.com"
