@@ -1,7 +1,17 @@
 # Book settings
-title: My sample book
-author: The Jupyter Book Community
+title: My personal Python book
+author: Fongshway
 logo: logo.png
+
+repository:
+  url: https://github.com/Fongshway/jupyter-book-python
+  branch: master
+  path_to_book: python
+
+html:
+  use_repository_button: true
+  use_issues_button: true
+  use_edit_page_button: true
 
 latex:
   latex_documents:
